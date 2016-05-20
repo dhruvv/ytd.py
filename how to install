@@ -1,0 +1,6 @@
+THIS FILE TELLS YOU HOW TO INSTALL -PLEASE READ!
+WINDOWS
+  Download youtube-dl.exe , ytd.py and logo.gif. Put them in the same directory. Then run ytd.py. That's all
+LINUX
+  Run 'sudo pip install youtube-dl' or 'sudo apt-get install youtube-dl' then download ytd.py and logo.gif
+THAT'S ALL , FOLKS!
