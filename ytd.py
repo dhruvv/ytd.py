@@ -11,7 +11,6 @@ window.title("Youtube Downloader")
 def doDownload() :
 	url = ent.get()
 	os.system("youtube-dl "+url)
-	os.system("sudo cp *.mkv /mnt/DOS/Dhruv/Videos/Downloaded/MKV")
 img = tkinter.PhotoImage(file="logo.gif")
 lb = tkinter.Label(window, image=img)
 lb.pack()
